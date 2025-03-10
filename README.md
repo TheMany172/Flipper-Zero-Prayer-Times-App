@@ -1,5 +1,7 @@
 # Flipper Zero Prayer Times App
 
+(Please note - this was made as a learning project. You must verify the prayer times for your location yourself rather than relying on this app)
+
 A dedicated Islamic Prayer Times application for the Flipper Zero device. This application allows Muslims to keep track of their daily prayer times directly from their Flipper Zero.
 
 ## Features
